@@ -1,0 +1,14 @@
+{
+  "name": "zycs-img",
+  "compatibility_date": "2025-04-09",
+  "assets": {
+    "directory": "./dist"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "IMG_KV",
+      "id": "AHIMG",
+      "preview_id": "AHIMG"
+    }
+  ]
+}
